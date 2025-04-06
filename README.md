@@ -19,7 +19,7 @@ El Árbol Binario de Búsqueda (BST) se volvió mucho más lento debido a que el
 #2. Datos Ordenados Ascendentes
 Los datos fueron generados en orden ascendente, lo que pone a prueba cómo los árboles manejan el peor caso para un BST (un árbol completamente desbalanceado).
 
-![Ejecución 3](./capturas/Datos_Ascendentes.png)
+![Ejecución 3](./capturas/Datos_Ascedentes.png)
 
 Observaciones:
 En este caso, el Árbol AVL sigue demostrando un rendimiento superior debido a su capacidad de mantenerse balanceado.
